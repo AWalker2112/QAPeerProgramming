@@ -5,7 +5,7 @@ public class Runner {
 	public static void main(String[] args) {
 		//System.out.println(Exercise2.ordinal());
 		
-		Exercise3.exercise3();
+		Exercise4Advanced.exercise4(2, 4, 6, 3);
 	}
 	
 	
